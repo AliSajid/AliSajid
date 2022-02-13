@@ -1,17 +1,7 @@
-<style>
-    #banner {
-        background-color: #fafafa;
-        padding: 10px;
-        border-bottom: 1px solid #e5e5e5;
-        width: 50%;
-        height: 50%;
-        align: center;
-    }
-    </style>
 <div align="center">
 
-<div id="header" width="100">
-<img src="https://media1.giphy.com/media/3o7TKLC8zBUd7eEteE/giphy.gif" alt="Central Dogma of Genetics">
+<div id="header">
+<img src="https://media1.giphy.com/media/3o7TKLC8zBUd7eEteE/giphy.gif" alt="Central Dogma of Genetics" width="200px">
 </div>
 
  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asimami/)
@@ -35,5 +25,3 @@
 </div>
 
 ---
-
-![Macbook on a Wooden Desk](./imgs/header-macbook.jpg|width=500px)

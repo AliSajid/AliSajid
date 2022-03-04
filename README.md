@@ -33,7 +33,7 @@
 # Introduction
 
 * :man_technologist: I am Ali Sajid Imami, a bioinformtaic scientist and software engineer of Pakistani :pakistan: origin based in the US :us:.
-* :man_student: I hold an M.S. in Bioinformation from the University of Toledo.
+* :man_student: I hold an M.S. in Bioinformatics from the University of Toledo.
 * :man_teacher: I am currently pursuing a Ph.D. in Bioinformatics at the University of Toledo.
 * :man_technologist: I am currently a graduate reserach assistant in the [Cognitive Disorders Research Lab](https://cdrl-ut.org) at the University of Toledo.
 * I am passionate about solving complicasted problems using the simplest and intuitive methods.

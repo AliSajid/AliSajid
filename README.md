@@ -48,6 +48,7 @@
 
 ## Languages
 
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>
@@ -58,11 +59,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" title="Perl" alt="Perl" width="40" height="40"/>
-
+</div>
 
 
 ## Tools
 
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" title="Rstudio" alt="Rstudio" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" title="Pycharm" alt="Pycharm" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" title="Chrome" alt="Chrome" width="40" height="40"/>
@@ -73,12 +75,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>
-
-
-
+</div>
 
 ## Miscelaneous
 
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="GCP" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>
@@ -89,7 +90,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" title="Apple" alt="Apple" width="40" height="40"/>
-
+</div>
 
 # :fire: Stats
 
@@ -98,6 +99,21 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliSajid&hide=html,css,scss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Ali's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AliSajid)](https://github.com/anuraghazra/github-readme-stats)
 
+# :label: Projects
+
+* [Kinase INteraction NETwork (KINNET)](https://github.com/CogDisResLab/KINNET) 
+
+* [drugfindR](https://github.com/CogDisResLab/drugfindR)
+
+* [KinaseTauScore](https://github.com/CogDisResLab/KinaseTauScore)
+
+* [BioPathNet](https://github.com/CogDisResLab/BioPathNet)
+
+* [Kaleidoscope](https://github.com/CogDisResLab/Kaleidoscope)
+
+* [Kinome Random Sampling Analyzer (KRSA)](https://github.com/CogDisResLab/KRSA)
+
+* [creedenzymatic](https://github.com/CogDisResLab/creedenzymatic)
 
 # :books: Publications
 
@@ -119,18 +135,3 @@
 
 - [Integrative Omics for Informed Drug Repurposing: Targeting CNS Disorders - [bioRxiv]](https://doi.org/10.1101/2020.04.24.060392)
 
-# :label: Projects
-
-* [Kinase INteraction NETwork (KINNET)](https://github.com/CogDisResLab/KINNET) 
-
-* [drugfindR](https://github.com/CogDisResLab/drugfindR)
-
-* [KinaseTauScore](https://github.com/CogDisResLab/KinaseTauScore)
-
-* [BioPathNet](https://github.com/CogDisResLab/BioPathNet)
-
-* [Kaleidoscope](https://github.com/CogDisResLab/Kaleidoscope)
-
-* [Kinome Random Sampling Analyzer (KRSA)](https://github.com/CogDisResLab/KRSA)
-
-* [creedenzymatic](https://github.com/CogDisResLab/creedenzymatic)

@@ -91,6 +91,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" title="Apple" alt="Apple" width="40" height="40"/>
 
 
+# :fire: Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AliSajid&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/?username=AliSajid&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliSajid&hide=html,css,scss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 # :books: Publications
 
 - [The active kinome: The modern view of how active protein kinase networks fit in biological research - Current Opinion in Pharmacology](https://doi.org/10.1016/j.coph.2021.11.007)

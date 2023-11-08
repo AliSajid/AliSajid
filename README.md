@@ -15,7 +15,7 @@
  [![Google Scholar](https://img.shields.io/badge/Google-Scholar-yellow?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNTAwIiBoZWlnaHQ9IjI1MDAiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj4gIDxnIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCI+ICAgIDxwYXRoIGZpbGw9IiM0Mjg1ZjQiIGQ9Ik0yNTYgNDExLjEyIDAgMjAyLjY2NyAyNTYgMHoiLz4gICAgPHBhdGggZmlsbD0iIzM1NmFjMyIgZD0ibTI1NiA0MTEuMTIgMjU2LTIwOC40NTNMMjU2IDB6Ii8+ICAgIDxjaXJjbGUgY3g9IjI1NiIgY3k9IjM2Mi42NjciIHI9IjE0OS4zMzMiIGZpbGw9IiNhMGMzZmYiLz4gICAgPHBhdGggZmlsbD0iIzc2YTdmYSIgZD0iTTEyMS4wMzcgMjk4LjY2N2MyMy45NjgtNTAuNDUzIDc1LjM5Mi04NS4zMzQgMTM0Ljk2My04NS4zMzRzMTEwLjk5NSAzNC44ODEgMTM0Ljk2MyA4NS4zMzRIMTIxLjAzN3oiLz4gIDwvZz48L3N2Zz4=&style=for-the-badge)](https://scholar.google.com/citations?user=tGIcYK4AAAAJ&hl=en)
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraineFlat.svg)](https://vshymanskyy.github.io/StandWithUkraine)
-[![Support Ukraine Badge](https://bit.ly/support-ukraine-now)](https://github.com/support-ukraine/support-ukraine)
+[![StandWithPalestine](https://github.com/Safouene1/support-palestine-banner/blob/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner)
 
 
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg?style=for-the-badge)](https://saythanks.io/to/AliSajid)
